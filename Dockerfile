@@ -1,1 +1,1 @@
-FROM daxia2023/gonez:nginxw2
+FROM daxia2023/gonez:nginx2
